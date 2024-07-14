@@ -1,5 +1,5 @@
 ### Git Exercises
 
-## Bundle 1
+## Bundle 1 
  
 # Exercise 1
